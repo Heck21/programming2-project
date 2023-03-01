@@ -1,6 +1,6 @@
 from random import choice, randint, randrange
 from string import ascii_uppercase
-#
+
 # Define the list of names
 names = [
     "Johnathan Boyd", 
