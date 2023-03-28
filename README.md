@@ -4,7 +4,7 @@ carwash.c - Main code for project.
 
 wash.c - Source file.
 
-wash.h - Header file with function declaration. 
+wash.h - Header file. 
 
 generate.py - Script that generates random data to store in file.
 
