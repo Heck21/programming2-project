@@ -1,12 +1,12 @@
 # DESCRIPTION
 
-carwash.c - Main code for Programming 2 (CMP1025) Project.
+carwash.c - Main code for project.
 
-wash.c - Function definitions.
+wash.c - Source file.
 
-wash.h - Header file with function declarations, macro definitions, global variables. 
+wash.h - Header file with function declaration. 
 
-generate.py - Generates random data to store in file.
+generate.py - Script that generates random data to store in file.
 
 data.txt - File used to store data.
 
