@@ -1,6 +1,4 @@
 /*
-Group Members: Cavin Warren
-ID#: 1908573
 Date: February 22, 2023
 Description: Header File for Programming 2 Project
 */
